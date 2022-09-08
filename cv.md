@@ -1,15 +1,16 @@
 # Goman Anastsiya
-________________________
+____________________
 # Contacts
 
 - Telephone +375297185299
 - Email     ms_bang@mail.ru
 - GitHub   [Goman-Anastasiya](https://github.com/Goman-Anastasiya)
 - Telegram [Anastasiya](https://t.me/maua_ya_kifo)
-________________________
+____________________
 # About me
 
 I am 29 years old. I have not been working anywhere for 5 years, but I really want to try my hand at the front-end. I hope everything works out.
+
 __________
 # Skills
 
